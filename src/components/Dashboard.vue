@@ -9,7 +9,7 @@
 import Product from './Product';
 
 export default {
-  name: 'Dashboard',
+  name: 'dash-board',
   props: {
     msg: String
   },

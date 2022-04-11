@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'Product',
+  name: 'product-card',
   props: {
     msg: String
   },
